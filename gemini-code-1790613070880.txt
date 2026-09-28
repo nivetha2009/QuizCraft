@@ -1,0 +1,3 @@
+# Optional environment variables
+# If you integrate an external API in the future (e.g. OpenAI or Gemini), add keys here.
+VITE_API_KEY=

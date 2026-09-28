@@ -1,0 +1,18 @@
+quizcraft/
+├── .env.example
+├── .gitignore
+├── index.html
+├── package.json
+├── README.md
+├── vite.config.js
+└── src/
+    ├── App.jsx
+    ├── index.css
+    ├── main.jsx
+    ├── components/
+    │   ├── Home.jsx
+    │   ├── QuizSetup.jsx
+    │   ├── QuizRunner.jsx
+    │   └── QuizResults.jsx
+    └── data/
+        └── quizData.js
